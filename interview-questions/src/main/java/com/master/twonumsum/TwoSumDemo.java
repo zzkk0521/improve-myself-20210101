@@ -1,4 +1,4 @@
-package com.master.q02;
+package com.master.twonumsum;
 
 //暴力解法
 public class TwoSumDemo {

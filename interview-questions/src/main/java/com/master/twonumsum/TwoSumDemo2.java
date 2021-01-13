@@ -1,4 +1,4 @@
-package com.master.q02;
+package com.master.twonumsum;
 
 import java.util.HashMap;
 

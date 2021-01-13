@@ -1,4 +1,4 @@
-package com.master.q01;
+package com.master.stringconst;
 
 public class StringConstant {
 
